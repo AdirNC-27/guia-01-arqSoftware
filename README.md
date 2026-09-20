@@ -20,8 +20,8 @@ Espero fortalecer mis conocimientos en arquitectura de software y aprender a dis
 
 ### Paso 01 - Verificación del entorno
 
-Aquí se incluirá la captura correspondiente a la verificación de las herramientas de desarrollo.
+![Verificación del entorno](docs/evidencias/01-entorno.png)
 
 ### Paso 02 - Configuración de Git
 
-Aquí se incluirá la captura correspondiente a la configuración de la identidad en Git.
+![Configuración de la identidad en Git](docs/evidencias/02-identidad-git.png)
