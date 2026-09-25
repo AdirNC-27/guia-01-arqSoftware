@@ -1,7 +1,7 @@
 # Colaborador
 
 **Nombre:** Edhts Yhurdin Prado Gomez  
-**Código:** AQUÍ SU CÓDIGO  
+**Código:** 27223101  
 **Curso:** Arquitectura de Software - IS-488  
 **Semestre:** 2026-II  
 
