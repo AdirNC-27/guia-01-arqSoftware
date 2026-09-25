@@ -25,3 +25,12 @@ Espero fortalecer mis conocimientos en arquitectura de software y aprender a dis
 ### Paso 02 - Configuración de Git
 
 ![Configuración de la identidad en Git](docs/evidencias/02-identidad-git.png)
+## Evidencias del colaborador
+
+### Verificación del entorno
+
+![Entorno del colaborador](docs/evidencias/03-entorno-colaborador.png)
+
+### Configuración de identidad en Git
+
+![Identidad Git del colaborador](docs/evidencias/04-identidad-git-colaborador.png)
